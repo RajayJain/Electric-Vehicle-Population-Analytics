@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/EV.jpeg" alt="Electric vehicle charging illustration" width="720">
+  <img src="assets/EV.jpeg" alt="Electric vehicle charging illustration" width="2000">
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 </p>
 
 <p align="center">
-  <a href="tableau/Electric_Vehicle.twb">Tableau workbook</a> ·
-  <a href="data/raw/Electric_Vehicle_Population_Data.csv">Raw data</a> ·
-  <a href="presentation/Electric%20Vehicle%20Presentation.pptx">Project brief</a>
+  <a href="assets/Electric_Vehicle.twb">Tableau workbook</a> ·
+  <a href="assets/Electric_Vehicle_Population_Data.csv">Raw data</a> ·
+  <a href="assets/Electric Vehicle Presentation.pptx">Project brief</a>
 </p>
 
 ---
@@ -50,14 +50,10 @@ The accompanying presentation defines the intended KPI and chart requirements; t
 Electric-Vehicle-Analytics/
 ├── README.md
 ├── assets/
-│   └── EV.jpeg                                   # Supplied project cover visual
-├── data/
-│   └── raw/
-│       └── Electric_Vehicle_Population_Data.csv  # Source dataset
-├── tableau/
-│   └── Electric_Vehicle.twb                      # Tableau workbook
-└── presentation/
-    └── Electric Vehicle Presentation.pptx        # KPI and visual requirements
+   └── EV.jpeg                                   # Supplied project cover visual
+   └── Electric_Vehicle_Population_Data.csv      # Source dataset
+   └── Electric_Vehicle.twb                      # Tableau workbook
+   └── Electric Vehicle Presentation.pptx        # KPI and visual requirements
 ```
 
 ## 🧰 Tools and files
