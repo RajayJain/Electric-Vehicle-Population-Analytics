@@ -36,6 +36,13 @@ This project turns the supplied electric-vehicle population extract into an inte
 
 The accompanying presentation defines the intended KPI and chart requirements; the figures in this README were calculated directly from the supplied CSV so they are independently reproducible.
 
+---
+
+## 🖼️ A glimpse of the Tableau Dashboard  
+![Dashboard](assets/Dash.png)
+
+---
+
 ## 🎯 Objectives
 
 - Measure the total unique electric-vehicle population and its model-year distribution.
